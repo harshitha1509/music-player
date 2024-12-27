@@ -1,0 +1,29 @@
+img{
+    width: 300px;
+    height: 300px;
+}
+
+#progressparent{
+    border: 1px solid black;
+    height: 5px;
+    background-color: black;
+    width: 300px;
+}
+
+#progresschild{
+    border: 1px solid orange;
+    height: 5px;
+    background-color: orange;
+    width: 0px;
+}
+
+#icons{
+    display: flex;
+    gap: 40px;
+    font-size: 30px;
+}
+
+#time{
+    display: flex;
+    gap: 250px;
+}
